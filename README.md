@@ -2,8 +2,8 @@
 
 Para correr el juego debes seguir las instrucciones de abajo:
 
-'''sh
+```sh
 cd game
 python3 main.py
-'''
+```
 
