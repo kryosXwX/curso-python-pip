@@ -1,6 +1,8 @@
 import utils
 import read_csv
 import charts
+import pandas
+
 
 def run():
   data = read_csv.read_csv('/home/josh/py-project/app/data.csv')
@@ -23,3 +25,4 @@ def run():
 
 if __name__ == '__main__':
   run()
+
